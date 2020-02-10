@@ -1,0 +1,10 @@
+{
+  "name": "Arkeytec Viewer",
+  "version":"0.2.0",
+  "desc": "This plugins allows you to view streams in your browser, amongst other things.",
+  "serveFrom": "/view",
+  "author": "",
+  "contact":"",
+  "homepage":"https://arkeytec.com",
+  "git":""
+}
